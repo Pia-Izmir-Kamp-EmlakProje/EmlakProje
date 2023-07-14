@@ -11,6 +11,8 @@ public class EmlakProjeApplication {
 		SpringApplication.run(EmlakProjeApplication.class, args);
 
 
+
+
 	}
 
 }
