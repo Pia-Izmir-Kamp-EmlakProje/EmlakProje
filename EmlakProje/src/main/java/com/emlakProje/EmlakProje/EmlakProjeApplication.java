@@ -8,7 +8,6 @@ public class EmlakProjeApplication {
 
 
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(EmlakProjeApplication.class, args);
 	}
