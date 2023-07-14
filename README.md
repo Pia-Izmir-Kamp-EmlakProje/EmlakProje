@@ -2,4 +2,5 @@
 Pia İzmir Kamp Emlak Proje Backend
 
 
-emlakçılara güvenmeyin abi.
+emlakçılara güvenmeyin abi
+.
