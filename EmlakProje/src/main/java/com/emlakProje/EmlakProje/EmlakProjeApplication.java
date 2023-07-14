@@ -7,7 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class EmlakProjeApplication {
 
 
-
 	public static void main(String[] args) {
 		SpringApplication.run(EmlakProjeApplication.class, args);
 	}
