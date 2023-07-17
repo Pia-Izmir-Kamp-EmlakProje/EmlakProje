@@ -12,6 +12,8 @@ public class EmlakProjeApplication {
 		System.out.println("denemeprint");
 		System.out.println("print added");
 
+
+
 	}
 
 }
