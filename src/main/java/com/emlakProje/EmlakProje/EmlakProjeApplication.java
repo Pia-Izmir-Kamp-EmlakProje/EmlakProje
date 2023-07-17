@@ -10,6 +10,7 @@ public class EmlakProjeApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(EmlakProjeApplication.class, args);
 		System.out.println("denemeprint");
+		System.out.println("print added");
 
 	}
 
